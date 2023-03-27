@@ -5,8 +5,4 @@ Git tracks changes of files.
 test test test
 sha wan yier
 zai lai
-<<<<<<< HEAD
 Creating a new branch is quick and simple.
-=======
-Creating a new branch is quick and simple.
->>>>>>> feature1
