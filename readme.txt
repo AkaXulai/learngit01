@@ -5,3 +5,4 @@ Git tracks changes of files.
 test test test
 sha wan yier
 zai lai
+Creating a new branch is quick AND simple.
